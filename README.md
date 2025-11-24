@@ -1,1 +1,0 @@
-Goal is to create a system that fetches historical data → engineers features → trains models → evaluates performance and optionally deploys a prediction pipeline.
